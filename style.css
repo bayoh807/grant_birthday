@@ -57,7 +57,7 @@ html,body{
 
 body {
    background:#cc9;
-   background-image: url('img.jpg');
+   background-image: url('./img.jpg');
    background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
